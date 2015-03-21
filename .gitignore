@@ -1,2 +1,6 @@
 # Ignore NPM modules
 /node_modules/**
+
+**/*min.css
+**/*min.js
+.project
